@@ -3,4 +3,3 @@ limon
 su
 şeker
 
-şeker
